@@ -1,2 +1,4 @@
-# tensorflow_examples
-Implementation of popular ML algorithms in Tensorflow
+# List of implemented algorithms
+
+- Linear Regression
+- Binary Logistic Regression
